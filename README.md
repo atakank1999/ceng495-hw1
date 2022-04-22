@@ -1,4 +1,4 @@
-# vue-first-app
+# ceng495 hw1
 
 ## Project setup
 ```
